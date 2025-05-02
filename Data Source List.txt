@@ -1,0 +1,14 @@
+Course Data Sets
+Throughout this program, you will be working with multiple data sets. You do not need to download the data sets now in order to complete each of the coding exercises, assignments, and labs. However, if you'd like to save them for future reference, you may choose to download them now.
+
+Becker, Barry & Kohavi, Ronny (1996). Adult Data Set (1994) [Data set] (Census Data Data set). UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/adultLinks to an external site.
+Bogacz, Michal. (2021). Restaurant Business Rankings 2020 [Data set]. Kaggle. https://www.kaggle.com/datasets/michau96/restaurant-business-rankings-2020Links to an external site.
+Duke University. Telecom churn (cell2cell) [Data set]. Kaggle. https://www.kaggle.com/datasets/jpacse/datasets-for-churn-telecom/codeLinks to an external site.
+Garnepudi, Venkatesh. (2019). Spam Mails Dataset. [Data set]. Kaggle. https://www.kaggle.com/datasets/venky73/spam-mails-datasetLinks to an external site. 
+Helliwell, J., Layard, R., & Sachs, J. (2018). World Happiness Report 2018 [Data set]. New York: Sustainable Development Solutions Network. https://worldhappiness.report/ed/2018Links to an external site.
+Inside Airbnb Data [Data sets] (2021). Inside Airbnb. http://insideairbnb.com/get-the-dataLinks to an external site.
+John Blitzer, Mark Dredze, Fernando Pereira (2007). Book Review Data Set [Data Set]. Biographies, Bollywood, Boom-boxes and Blenders: Domain Adaptation for Sentiment Classification. Association of Computational Linguistics (ACL). https://www.cs.jhu.edu/~mdredze/datasets/sentimentLinks to an external site. 
+Kinday, Julia (2009). Sample of Flight Delay [Data Set]. Kaggle. https://www.kaggle.com/datasets/izumita/flight-delay-sampleLinks to an external site.
+UCI Machine Learning (1990). Zoo Animal Classification [Data Set]. Kaggle. https://www.kaggle.com/datasets/uciml/zoo-animal-classificationLinks to an external site.
+Yann LeCun, Cortes Corinna, Christopher J.C. Burges (1994). MNIST Database of Handwritten Digits [Data Set]. http://yann.lecun.com/exdb/mnistLinks to an external site.
+Yasser, M (2022). Housing Prices Data Set [Data Set]. Kaggle. https://www.kaggle.com/datasets/yasserh/housing-prices-datasetLinks to an external site.
